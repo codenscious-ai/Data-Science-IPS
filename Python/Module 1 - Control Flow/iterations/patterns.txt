@@ -1,0 +1,38 @@
+n X n grid
+
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+
+n x n lower digonal matrix
+
+#
+# #
+# # #
+# # # #
+# # # # #
+
+n X n upper diagonal matrix
+
+# # # # #
+  # # # #
+    # # #
+      # #
+        #
+
+# n X n lip matrix
+# # # # #
+# # # #
+# # #
+# # 
+#
+
+
+# triangle with n height
+
+      #
+    # # #
+  # # # # #
+# # # # # # #
